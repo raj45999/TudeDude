@@ -1,4 +1,4 @@
-print("Task 1:")
+print("Task 1:")#TASK for checking even and odd numbers
 x= int(input("Enter a number: "))
 if x % 2 ==0:
     print(f"{x} is an even number")
@@ -6,7 +6,7 @@ else:
     print(f"{x} is an odd number")
 print()
 print()
-print("Task 2: ")
+print("Task 2: ")#TASK for adding numbers from 1 to 50
 a=0
 for i in range(1,51,1):
     a=a+i
